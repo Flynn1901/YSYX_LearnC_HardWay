@@ -141,4 +141,3 @@ ex46: ex46.c
 
 ex47: ex47.c
 	gcc -g -Wall ex47.c -o ex47
-
